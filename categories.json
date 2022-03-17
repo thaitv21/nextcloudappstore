@@ -1,0 +1,4985 @@
+[{
+    "id": "customization",
+    "translations": {
+        "fy": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "ga": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "gd": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "gl": {
+            "name": "Personalización",
+            "description": "Aplicacións de temas, aparencia e cambio de interface"
+        },
+        "en": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "af": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "sk": {
+            "name": "Prispôsobenie",
+            "description": "Témy, rozloženia a zmeny UX aplikácií"
+        },
+        "sl": {
+            "name": "Prilagajanje sistema",
+            "description": "Teme, razporeditve in spremembe vmesnika"
+        },
+        "sq": {
+            "name": "Përshtatje",
+            "description": "Temat, pamja dhe Ndërfaqja e Përdoruesit ndryshojnë aplikacionet"
+        },
+        "sr": {
+            "name": "Прилагођавање",
+            "description": "Теме, распоред елемената и апликације које мењају кориснички интерфејс"
+        },
+        "hy": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "ia": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "id": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "io": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "is": {
+            "name": "Sérsníðing",
+            "description": "Þemu, framsetning og breytingar á viðmóti"
+        },
+        "it": {
+            "name": "Personalizzazione",
+            "description": "Applicazioni di temi, modifiche della disposizione e UX"
+        },
+        "ja": {
+            "name": "カスタマイズ",
+            "description": "アプリのテーマ、レイアウト、UX変更"
+        },
+        "ka": {
+            "name": "პერსონალიზაცია",
+            "description": "ვიზუალური თემები, მაკეტი და UX ცვლილების აპლიკაციები"
+        },
+        "kab": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "kk": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "km": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "kn": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "ko": {
+            "name": "사용자 정의",
+            "description": "테마, 레이아웃, UX를 변경하는 앱"
+        },
+        "lb": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "lt": {
+            "name": "Tinkinimas",
+            "description": "Apipavidalinimai, išdėstymas ir naudotojo patyrimo keitimo programėlės"
+        },
+        "lv": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "mk": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "ml": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "mn": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "te": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "mr": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "my": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "nb": {
+            "name": "Tilpasning",
+            "description": "Apper for å endre tema, utseende og brukeropplevelse"
+        },
+        "ne": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "nl": {
+            "name": "Maatwerk",
+            "description": "Thema's, layout en UX aanpassingsapps"
+        },
+        "th": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "tr": {
+            "name": "Uyarlama",
+            "description": "Temalar, görünüm ve kullanıcı arayüzünü değiştiren uygulamalar"
+        },
+        "tt": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "udm": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "uk": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "ur": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "ar": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "ast": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "az": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "bg": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "be": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "bn": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "vi": {
+            "name": "Cá nhân hóa",
+            "description": "Các ứng dụng Chủ đề, bố cục và thay đổi trải nghiệm người dùng"
+        },
+        "zh-hans": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "zh-hant": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "br": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "bs": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "ca": {
+            "name": "Personalització",
+            "description": "Temes, disposició i apps de canvi d’UX"
+        },
+        "cs": {
+            "name": "Přizpůsobení",
+            "description": "Motivy vzhledu, schémata rozvržení a aplikace měnící dojem z používání uživatelského rozhraní"
+        },
+        "cy": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "da": {
+            "name": "Tilpasning",
+            "description": "Apps til at ændre temaer, layout og UX"
+        },
+        "de": {
+            "name": "Anpassung",
+            "description": "Apps zur Änderung von Design, Layout und Benutzererfahrung"
+        },
+        "dsb": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "el": {
+            "name": "Προσαρμογή",
+            "description": "Εφαρμογές αλλαγής θέματος, διάταξης και UX"
+        },
+        "eo": {
+            "name": "Adaptado",
+            "description": "Etosoj, aspekto kaj fasonado"
+        },
+        "es": {
+            "name": "Personalización",
+            "description": "Apps de temas, apariencia y cambio de interfaz"
+        },
+        "es-ar": {
+            "name": "Personalización",
+            "description": "Los temas, la disposición y UX cambian las aplicaciones"
+        },
+        "es-co": {
+            "name": "Personalización",
+            "description": "Los temas, la disposición y UX cambian las aplicaciones"
+        },
+        "es-mx": {
+            "name": "Personalización",
+            "description": "Los temas, la disposición y UX cambian las aplicaciones"
+        },
+        "es-ni": {
+            "name": "Personalización",
+            "description": "Los temas, la disposición y UX cambian las aplicaciones"
+        },
+        "es-ve": {
+            "name": "Personalización",
+            "description": "Apps de temas, apariencia y cambio de interfaz"
+        },
+        "et": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "eu": {
+            "name": "Pertsonalizazioa",
+            "description": "Gaiak, diseinua eta UX aldaketentzako app-ak"
+        },
+        "fa": {
+            "name": "سفارشی سازی",
+            "description": "برنامه ها ، طرح بندی و برنامه های تغییر UX"
+        },
+        "nn": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "fi": {
+            "name": "Mukautus",
+            "description": "Teemat, asettelu ja käyttäjäkokemusta muuttavat sovellukset"
+        },
+        "os": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "fr": {
+            "name": "Personnalisation",
+            "description": "Thèmes et applications modifiant le style et l'expérience utilisateur"
+        },
+        "pa": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "pl": {
+            "name": "Dostosowywanie",
+            "description": "Style, wygląd i zmniany UX"
+        },
+        "pt": {
+            "name": "Personalizar",
+            "description": "Temas, disposição e aplicações de alteração de UX"
+        },
+        "pt-br": {
+            "name": "Personalização",
+            "description": "Aplicativos para mudar Temas, layout e UX "
+        },
+        "ro": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "ru": {
+            "name": "Настройка",
+            "description": "Темы, раскладки и приложения для изменения интерфейса"
+        },
+        "he": {
+            "name": "התאמה אישית",
+            "description": "יישומוני ערכות עיצוב, פריסה ושינויי חוויית משתמש"
+        },
+        "hi": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "hr": {
+            "name": "Prilagođavanje",
+            "description": "Aplikacije za teme, izgled i promjene UX-a"
+        },
+        "hsb": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "hu": {
+            "name": "Testreszabás",
+            "description": "Témák, elrendezések és felhasználói felületet módosító alkalmazások"
+        },
+        "sr-latn": {
+            "name": "Прилагођавање",
+            "description": "Теме, распоред елемената и апликације које мењају кориснички интерфејс"
+        },
+        "sv": {
+            "name": "Anpassa",
+            "description": "Tema, layout och UX-ändringsappar"
+        },
+        "sw": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        },
+        "ta": {
+            "name": "Customization",
+            "description": "Themes, layout and UX change apps"
+        }
+    }
+}, {
+    "id": "dashboard",
+    "translations": {
+        "en": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "fy": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "ga": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "gd": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "gl": {
+            "name": "Taboleiro",
+            "description": "Aplicacións que inclúen trebellos do Taboleiro do Nextcloud"
+        },
+        "af": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "hu": {
+            "name": "Irányítópult",
+            "description": "Alkalmazások, beleértve a Nextcloud Irányítópult widgeteket"
+        },
+        "sk": {
+            "name": "Informačný panel",
+            "description": "Aplikácie vrátane ovládacích prvkov pre Nextcloud"
+        },
+        "sl": {
+            "name": "Nadzorna plošča",
+            "description": "Programi, vključno z gradniki Nadzorne plošče"
+        },
+        "sq": {
+            "name": "Tabelë",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "sr": {
+            "name": "Контролна табла",
+            "description": "Апликације које укључују справице на контролној табли"
+        },
+        "hy": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "ia": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "id": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "io": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "is": {
+            "name": "Stjórnborð",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "it": {
+            "name": "Cruscotto",
+            "description": "Applicazioni che includono i widget del cruscotto di Nextcloud"
+        },
+        "ja": {
+            "name": "ダッシュボード",
+            "description": "Nextcloudダッシュボードウィジェットを含んだアプリ"
+        },
+        "ka": {
+            "name": "მთავარი დაფა",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "kab": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "kk": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "km": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "kn": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "ko": {
+            "name": "대시보드",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "lb": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "lt": {
+            "name": "Skydelis",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "lv": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "mk": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "ml": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "mn": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "mr": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "te": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "my": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "nb": {
+            "name": "Instrumentpanel",
+            "description": "Apper som inkluderer Dashboard-widgets"
+        },
+        "ne": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "nl": {
+            "name": "Dashboard",
+            "description": "Apps inclusief Nextcloud Dashboard-widgets"
+        },
+        "th": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "tr": {
+            "name": "Pano",
+            "description": "Nextcloud pano bileşenleri bulunan uygulamalar"
+        },
+        "tt": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "udm": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "uk": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "ur": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "ar": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "ast": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "az": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "bg": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "be": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "bn": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "vi": {
+            "name": "Bảng thông tin",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "zh-hans": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "zh-hant": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "br": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "bs": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "ca": {
+            "name": "Panell de control",
+            "description": "Aplicacions que inclouen ginys del tauler de Nextcloud"
+        },
+        "cs": {
+            "name": "Nástěnka",
+            "description": "Aplikace včetně ovládacích prvků pro Nextcloud Přehled"
+        },
+        "cy": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "da": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "de": {
+            "name": "Dashboard",
+            "description": "Apps einschließlich Nextcloud Dashboard-Widgets"
+        },
+        "dsb": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "el": {
+            "name": "Πίνακας ελέγχου",
+            "description": "Εφαρμογές που περιλαμβάνουν γραφικά στοιχεία για τον πίνακα ελέγχου του Nextcloud"
+        },
+        "eo": {
+            "name": "Regpanelo",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "es": {
+            "name": "Dashboard",
+            "description": "Apps que incluyen widgets para Nextcloud Dashboard"
+        },
+        "es-ar": {
+            "name": "Dashboard",
+            "description": "Apps que incluyen widgets para Nextcloud Dashboard"
+        },
+        "es-co": {
+            "name": "Tablero de control",
+            "description": "Apps que incluyen widgets para Nextcloud Dashboard"
+        },
+        "es-mx": {
+            "name": "Tablero de control",
+            "description": "Apps que incluyen widgets para Nextcloud Dashboard"
+        },
+        "es-ni": {
+            "name": "Tablero de control",
+            "description": "Apps que incluyen widgets para Nextcloud Dashboard"
+        },
+        "es-ve": {
+            "name": "Dashboard",
+            "description": "Apps que incluyen widgets para Nextcloud Dashboard"
+        },
+        "et": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "eu": {
+            "name": "Mahaia",
+            "description": "Nextclouden aginte-panel widgetak dauzkaten aplikazioak"
+        },
+        "fa": {
+            "name": "داشبورد",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "nn": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "fi": {
+            "name": "Konsoli",
+            "description": "Sovellukset, mukaan lukien konsolin pienoissovellukset"
+        },
+        "os": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "fr": {
+            "name": "Tableau de bord",
+            "description": "Applications qui incluent un widget de tableau de bord"
+        },
+        "pa": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "pl": {
+            "name": "Pulpit",
+            "description": "Aplikacje, w tym widżety Nextcloud Dashboard"
+        },
+        "pt": {
+            "name": "Painel de controlo",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "pt-br": {
+            "name": "Painel",
+            "description": "Aplicativos incluindo widgets do Nextcloud Dashboard"
+        },
+        "ro": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "ru": {
+            "name": "Панель управления",
+            "description": "Приложения, включая виджеты Nextcloud Dashboard"
+        },
+        "he": {
+            "name": "לוח בקרה",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "hi": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "hr": {
+            "name": "Nadzorna ploča",
+            "description": "Aplikacije uključujući widgete za nadzornu ploču Nextclouda"
+        },
+        "hsb": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "sr-latn": {
+            "name": "Контролна табла",
+            "description": "Апликације које укључују справице на контролној табли"
+        },
+        "sv": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "sw": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        },
+        "ta": {
+            "name": "Dashboard",
+            "description": "Apps including Nextcloud Dashboard widgets"
+        }
+    }
+}, {
+    "id": "files",
+    "translations": {
+        "en": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "fy": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "ga": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "gd": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "gl": {
+            "name": "Ficheiros",
+            "description": "Aplicacións de extensión da xestión de ficheiros e da aplicación Ficheiros"
+        },
+        "af": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "hu": {
+            "name": "Fájlok",
+            "description": "Fájlkezelő és kiegészítő alkalmazások"
+        },
+        "sk": {
+            "name": "Súbory",
+            "description": "Správa súborov a aplikácia Súbory na rozšírenie aplikácií"
+        },
+        "sl": {
+            "name": "Datoteke",
+            "description": "Upravljanje z datotekami in razširitvami"
+        },
+        "sq": {
+            "name": "Skedarë",
+            "description": "Aplikacion i menaxhimit të skedarit dhe skedarëve për zgjerim të aplikacioneve"
+        },
+        "sr": {
+            "name": "Фајлови",
+            "description": "Управљање фајловима и апликације које проширују основну апликацију Фајлова"
+        },
+        "hy": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "ia": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "id": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "io": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "is": {
+            "name": "Skrár",
+            "description": "Skráastjórnun og forrit til meðhöndlunar skráaendinga"
+        },
+        "it": {
+            "name": "File",
+            "description": "Applicazioni di gestione dei file ed estensione dell'applicazione File"
+        },
+        "ja": {
+            "name": "ファイル",
+            "description": "ファイル管理とファイルアプリ拡張アプリ"
+        },
+        "ka": {
+            "name": "ფაილები",
+            "description": "ფაილების მენეჯმენტი და ფაილების აპლიკაციის გაფართოებების აპლიკაციები"
+        },
+        "kab": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "kk": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "km": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "kn": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "ko": {
+            "name": "파일",
+            "description": "파일 관리 및 파일 앱의 확장 기능"
+        },
+        "lb": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "lt": {
+            "name": "Failai",
+            "description": "Failų tvarkymo ir failų programų plėtinių programos"
+        },
+        "lv": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "mk": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "ml": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "mn": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "mr": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "te": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "my": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "nb": {
+            "name": "Filer",
+            "description": "App for filhåndtering og utvidelser til Filer"
+        },
+        "ne": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "nl": {
+            "name": "Bestanden",
+            "description": "Bestandsbeheer en uitbreidingen van bestand apps"
+        },
+        "th": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "tr": {
+            "name": "Dosyalar",
+            "description": "Dosya yönetimi ve Dosya uygulaması eklentileri"
+        },
+        "tt": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "udm": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "uk": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "ur": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "ar": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "ast": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "az": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "bg": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "be": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "bn": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "vi": {
+            "name": "Tệp tin",
+            "description": "Quản lý tệp và các ứng dụng mở rộng cho ứng dụng Tập tin"
+        },
+        "zh-hans": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "zh-hant": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "br": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "bs": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "ca": {
+            "name": "Fitxers",
+            "description": "Apps de gestió de fitxers i fitxers d’extensió d’apps"
+        },
+        "cs": {
+            "name": "Soubory",
+            "description": "Aplikace rozšiřující správu souborů a aplikaci Soubory"
+        },
+        "cy": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "da": {
+            "name": "Filer",
+            "description": "Filhåndtering og Files app udvidelses apps"
+        },
+        "de": {
+            "name": "Dateien",
+            "description": "Dateimanagement sowie Erweiterungs-Apps für die Dateien-App"
+        },
+        "dsb": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "el": {
+            "name": "Αρχεία",
+            "description": "Διαχείριση αρχείων και επέκταση εφαρμογής Αρχεία για εφαρμογές"
+        },
+        "eo": {
+            "name": "Dosieroj",
+            "description": "Dosieradministrado kaj kromprogramoj por la aplikaĵo „Dosieroj“"
+        },
+        "es": {
+            "name": "Archivos",
+            "description": "Apps de manejo de archivos y de extensión de la app Archivos"
+        },
+        "es-ar": {
+            "name": "Archivos",
+            "description": "Aplicaciones de Administración de archivos y extensión a la aplicación de Archivos"
+        },
+        "es-co": {
+            "name": "Archivos",
+            "description": "Aplicaciones de Administración de archivos y extensión a la aplicación de Archivos"
+        },
+        "es-mx": {
+            "name": "Archivos",
+            "description": "Aplicaciones de Administración de archivos y extensión a la aplicación de Archivos"
+        },
+        "es-ni": {
+            "name": "Archivos",
+            "description": "Aplicaciones de Administración de archivos y extensión a la aplicación de Archivos"
+        },
+        "es-ve": {
+            "name": "Archivos",
+            "description": "Apps de manejo de archivos y de extensión de la app Archivos"
+        },
+        "et": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "eu": {
+            "name": "Fitxategiak",
+            "description": "Fitxategien kudeaketa eta Fitxategi app-aren luzapen app-ak"
+        },
+        "fa": {
+            "name": "فایل",
+            "description": "برنامه های مدیریت برنامه مدیریت فایلها و پرونده ها"
+        },
+        "nn": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "fi": {
+            "name": "Tiedostot",
+            "description": "Tiedostojenhallintasovellukset ja Tiedostot-sovelluksen lisäosat"
+        },
+        "os": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "fr": {
+            "name": "Fichiers",
+            "description": "Applications de gestion de fichiers et extensions de l'application Fichiers"
+        },
+        "pa": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "pl": {
+            "name": "Pliki",
+            "description": "Aplikacje do zarządzania plikiem i dodatki aplikacji Pliki"
+        },
+        "pt": {
+            "name": "Ficheiros",
+            "description": "Gestão de ficheiros e aplicações de extensão à aplicação Ficheiros"
+        },
+        "pt-br": {
+            "name": "Arquivos",
+            "description": "Gerenciamento de arquivos e extensão de aplicativo"
+        },
+        "ro": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "ru": {
+            "name": "Файлы",
+            "description": "Расширение: файлы и управление файлами"
+        },
+        "he": {
+            "name": "קבצים",
+            "description": "יישומוני ניהול קבצים והרחבות יישומוני קבצים"
+        },
+        "hi": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "hr": {
+            "name": "Datoteke",
+            "description": "Aplikacije za upravljanje datotekama i proširenjima za aplikaciju Datoteke"
+        },
+        "hsb": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "sr-latn": {
+            "name": "Фајлови",
+            "description": "Управљање фајловима и апликације које проширују основну апликацију Фајлова"
+        },
+        "sv": {
+            "name": "Filer",
+            "description": "Filhantering och Filers tilläggsappar"
+        },
+        "sw": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        },
+        "ta": {
+            "name": "Files",
+            "description": "File management and Files app extension apps"
+        }
+    }
+}, {
+    "id": "games",
+    "translations": {
+        "en": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "fy": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "ga": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "gd": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "gl": {
+            "name": "Xogos",
+            "description": "Xogos funcionando no seu Nextcloud"
+        },
+        "af": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "sk": {
+            "name": "Hry",
+            "description": "Hry bežia vo vašom Nextcloude"
+        },
+        "sl": {
+            "name": "Igre",
+            "description": "Igre, ki se izvajajo v oblaku Nextcloud"
+        },
+        "sq": {
+            "name": "Lojëra",
+            "description": "Lojerët në Nextcloud-in tuaj"
+        },
+        "sr": {
+            "name": "Игрице",
+            "description": "Игрице које се покрећу из Некстклауда"
+        },
+        "hu": {
+            "name": "Játékok",
+            "description": "Játékok a Nextcloudjában"
+        },
+        "hy": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "ia": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "id": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "io": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "is": {
+            "name": "Leikir",
+            "description": "Leikir keyrðir í þínu eigin Nextcloud"
+        },
+        "it": {
+            "name": "Giochi",
+            "description": "Giochi da far girare nel tuo Nextcloud"
+        },
+        "ja": {
+            "name": "ゲーム",
+            "description": "Nextcloudで動くゲーム"
+        },
+        "ka": {
+            "name": "თამაშები",
+            "description": "თამაშები, რომლებიც მუშაობენ თქვენს Nextcloud-ში"
+        },
+        "kab": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "kk": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "km": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "kn": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "ko": {
+            "name": "게임",
+            "description": "내 Nextcloud에서 실행하는 게임"
+        },
+        "lb": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "lt": {
+            "name": "Žaidimai",
+            "description": "Žaidimai Jūsų Nextcloud"
+        },
+        "lv": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "mk": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "ml": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "mn": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "mr": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "te": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "my": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "nb": {
+            "name": "Spill",
+            "description": "Spillbare spill i din Nextcloud"
+        },
+        "ne": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "nl": {
+            "name": "Spelen",
+            "description": "Spellen draaiend in je Nextcloud"
+        },
+        "th": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "tr": {
+            "name": "Oyunlar",
+            "description": "Nextcloud hesabınızda çalışan oyunlar"
+        },
+        "tt": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "udm": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "uk": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "ar": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "ast": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "az": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "bg": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "be": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "bn": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "ur": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "vi": {
+            "name": "Trò chơi",
+            "description": "Các trò chơi chạy trên Nextcloud của bạn"
+        },
+        "zh-hans": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "zh-hant": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "br": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "bs": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "ca": {
+            "name": "Jocs",
+            "description": "Jocs que s'executaran en el vostre Nextcloud"
+        },
+        "cs": {
+            "name": "Hry",
+            "description": "Hry spustitelné v rámci Nextcloud"
+        },
+        "cy": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "da": {
+            "name": "Spil",
+            "description": "Spil der køres i din Nextcloud"
+        },
+        "de": {
+            "name": "Spiele",
+            "description": "Spiele für Deine Nextcloud"
+        },
+        "dsb": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "el": {
+            "name": "Παιχνίδια",
+            "description": "Παιχνίδια που τρέχουν στο Nextcloud σας"
+        },
+        "eo": {
+            "name": "Ludoj",
+            "description": "Ludoj ene de via Nextcloud"
+        },
+        "es": {
+            "name": "Juegos",
+            "description": "Juegos que funcionan en tu Nextcloud"
+        },
+        "es-ar": {
+            "name": "Juegos",
+            "description": "Los juegos se ejecutan en tu Nextcloud"
+        },
+        "es-co": {
+            "name": "Juegos",
+            "description": "Juegos que corren en tu Nextcloud"
+        },
+        "es-mx": {
+            "name": "Juegos",
+            "description": "Juegos que corren en tu Nextcloud"
+        },
+        "es-ni": {
+            "name": "Juegos",
+            "description": "Juegos que corren en tu Nextcloud"
+        },
+        "es-ve": {
+            "name": "Juegos",
+            "description": "Juegos que funcionan en tu Nextcloud"
+        },
+        "et": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "eu": {
+            "name": "Jokuak",
+            "description": "Zure Nextcloudean exekuta daitezkeen jokuak"
+        },
+        "fa": {
+            "name": "بازی ها",
+            "description": "بازی ها در نکست کلود شما اجرا می شوند"
+        },
+        "nn": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "fi": {
+            "name": "Pelit",
+            "description": "Pelit suoritetaan Nextcloudissasi"
+        },
+        "os": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "fr": {
+            "name": "Jeux",
+            "description": "Les jeux fonctionnant dans votre Nextcloud"
+        },
+        "pa": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "pl": {
+            "name": "Gry",
+            "description": "Gry dla Nextcloud"
+        },
+        "pt": {
+            "name": "Jogos",
+            "description": "Jogos executados na sua Nextcloud"
+        },
+        "pt-br": {
+            "name": "Jogos",
+            "description": "Os jogos rodam em seu Nextcloud"
+        },
+        "ro": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "ru": {
+            "name": "Игры",
+            "description": "В Nextcloud запускаются игры"
+        },
+        "he": {
+            "name": "משחקים",
+            "description": "משחקים שפועלים ב־Nextcloud שלך"
+        },
+        "hi": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "hr": {
+            "name": "Igre",
+            "description": "Igre koje se izvode u vašem Nextcloudu"
+        },
+        "hsb": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "sr-latn": {
+            "name": "Игрице",
+            "description": "Игрице које се покрећу из Некстклауда"
+        },
+        "sv": {
+            "name": "Spel",
+            "description": "Spel kör i ditt Nextcloud"
+        },
+        "sw": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        },
+        "ta": {
+            "name": "Games",
+            "description": "Games run in your Nextcloud"
+        }
+    }
+}, {
+    "id": "integration",
+    "translations": {
+        "en": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "fy": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "ga": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "gd": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "af": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "sk": {
+            "name": "Integrácia",
+            "description": "Apky, ktoré prepájajú Nextcloud s inými službami a platformami"
+        },
+        "sl": {
+            "name": "Sodelovanje in delo",
+            "description": "Programi, ki povezujejo Nextcloud z drugimi storitvami in okolji"
+        },
+        "sq": {
+            "name": "Integrimi",
+            "description": "Aplikacionet që lidhen me Nextcloud me anën e  shërbimeve dhe platformave të tjera"
+        },
+        "sr": {
+            "name": "Интеграција",
+            "description": "Апликације које повезују Некстклауд са другим сервисима и платформама"
+        },
+        "hu": {
+            "name": "Integráció",
+            "description": "Alkalmazások, melyek a Nextcloudot más szolgáltatásokhoz és platformokhoz kapcsolják"
+        },
+        "hy": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "ia": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "id": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "io": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "is": {
+            "name": "Samþætting",
+            "description": "Forrit sem tengja Nextcloud við aðrar þjónustur og kerfi"
+        },
+        "it": {
+            "name": "Integrazione",
+            "description": "Applicazioni che collegano Nextcloud con altri servizi e piattaforme"
+        },
+        "ja": {
+            "name": "連携",
+            "description": "NextCloudと他のサービスやプラットフォームを接続するアプリケーション"
+        },
+        "ka": {
+            "name": "ინტეგრაცია",
+            "description": "აპლიკაციები რომლებიც აკავშირებენ Nextcloud-ს სხვა სერვისებსა და პლატფორმებთან "
+        },
+        "kab": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "kk": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "km": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "kn": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "ko": {
+            "name": "통합",
+            "description": "Nextcloud와 다른 서비스 및 플랫폼을 통합하는 앱"
+        },
+        "lb": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "lt": {
+            "name": "Integracija",
+            "description": "Programos, jungiančios Nextcloud su kitomis paslaugomis ir platformomis"
+        },
+        "lv": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "mk": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "ml": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "mn": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "mr": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "te": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "my": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "nb": {
+            "name": "Integrasjon",
+            "description": "Apper som kobler Nextcloud med andre tjenester og plattformer"
+        },
+        "ne": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "nl": {
+            "name": "Integratie",
+            "description": "Apps die Nextcloud verbinden met andere services en platformen"
+        },
+        "th": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "tr": {
+            "name": "Bütünleştirme",
+            "description": "Nextcloud ile diğer hizmet ve platformları bütünleştiren uygulamalar"
+        },
+        "tt": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "udm": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "uk": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "ar": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "ast": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "az": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "bg": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "be": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "bn": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "ur": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "vi": {
+            "name": "Tích hợp",
+            "description": "Các ứng dụng kết nối Nextcloud với các dịch vụ và nền tảng khác"
+        },
+        "zh-hans": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "zh-hant": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "br": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "bs": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "ca": {
+            "name": "Integració",
+            "description": "Aplicacions que es connecten a Nextcloud amb altres serveis i plataformes"
+        },
+        "cs": {
+            "name": "Propojení",
+            "description": "Aplikace které NextCloud propojují s dalšími službami a platformami"
+        },
+        "cy": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "da": {
+            "name": "Integration",
+            "description": "Apps der forbinder Nextcloud med andre services og platforme"
+        },
+        "de": {
+            "name": "Einbindung",
+            "description": "Apps die Nextcloud mit anderen Diensten und Plattformen verbinden"
+        },
+        "dsb": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "el": {
+            "name": "Ενσωμάτωση",
+            "description": "Εφαρμογές που συνδέουν το Nextcloud με άλλες υπηρεσίες και πλατφόρμες"
+        },
+        "eo": {
+            "name": "Integrigo",
+            "description": "Aplikaĵoj, kiuj interligas Nextcloud-on kun aliaj servoj kaj platformoj"
+        },
+        "es": {
+            "name": "Integración",
+            "description": "Apps que conectan Nextcloud con otros servicios y plataformas"
+        },
+        "es-ar": {
+            "name": "Integración",
+            "description": "Aplicaciones que conectan a Nextcloud con otros servicios y plataformas"
+        },
+        "es-co": {
+            "name": "Integración",
+            "description": "Aplicaciones que conectan a Nextcloud con otros servicios y plataformas"
+        },
+        "es-mx": {
+            "name": "Integración",
+            "description": "Aplicaciones que conectan a Nextcloud con otros servicios y plataformas"
+        },
+        "es-ni": {
+            "name": "Integración",
+            "description": "Aplicaciones que conectan a Nextcloud con otros servicios y plataformas"
+        },
+        "es-ve": {
+            "name": "Integración",
+            "description": "Apps que conectan Nextcloud con otros servicios y plataformas"
+        },
+        "et": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "eu": {
+            "name": "Integrazioa",
+            "description": "Nextcloud beste zerbitzu eta plataformekin konektatzeko app-ak"
+        },
+        "fa": {
+            "name": "ادغام",
+            "description": "برنامه هایی که نکست کلود را با سایر سرویس ها و سیستم عامل ها متصل می کند"
+        },
+        "nn": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "fi": {
+            "name": "Integraatio",
+            "description": "Sovellukset, jotka yhdistävät Nextcloudin muihin palveluihin ja sovellusalustoihin"
+        },
+        "os": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "fr": {
+            "name": "Intégration",
+            "description": "Applications qui connectent Nextcloud avec d'autres services et plateformes"
+        },
+        "pa": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "pl": {
+            "name": "Integracja",
+            "description": "Połączenie Nextcloud z innymi usługami i platformami"
+        },
+        "pt": {
+            "name": "Integração",
+            "description": "Aplicações que ligam a sua Nextcloud a outros serviços e plataformas"
+        },
+        "pt-br": {
+            "name": "Integração",
+            "description": "Aplicativos que conectam ao Nextcloud com outros serviços e plataformas"
+        },
+        "ro": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "ru": {
+            "name": "Интеграция",
+            "description": "Приложения, соединяющие Nextcloud с другими службами и платформами"
+        },
+        "gl": {
+            "name": "Integración",
+            "description": "Aplicacións que conectan o Nextcloud con outros servizos e plataformas"
+        },
+        "he": {
+            "name": "שילוב",
+            "description": "יישומונים שמחברים את Nextcloud עם שירותים ופלטפורמות אחרים"
+        },
+        "hi": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "hr": {
+            "name": "Integracija",
+            "description": "Aplikacije koje povezuju Nextcloud s drugim uslugama i platformama"
+        },
+        "hsb": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "sr-latn": {
+            "name": "Интеграција",
+            "description": "Апликације које повезују Некстклауд са другим сервисима и платформама"
+        },
+        "sv": {
+            "name": "Integration",
+            "description": "Appar som ansluter Nextcloud med andra tjänster och plattformar"
+        },
+        "sw": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        },
+        "ta": {
+            "name": "Integration",
+            "description": "Apps that connect Nextcloud with other services and platforms"
+        }
+    }
+}, {
+    "id": "monitoring",
+    "translations": {
+        "en": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "fy": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "ga": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "gd": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "af": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "sk": {
+            "name": "Monitoring",
+            "description": "Štatistika dát, diagnostika systému a aktivity aplikácií"
+        },
+        "sl": {
+            "name": "Nadzor in delovanje",
+            "description": "Statistika podatkov, sistemska diagnostika in programi za spremljanje dejavnosti"
+        },
+        "sq": {
+            "name": "Vëzhgim",
+            "description": "Statistikat e të dhënave, diagnostikimi i sistemit dhe aplikacionet e aktivitetit"
+        },
+        "sr": {
+            "name": "Надгледање",
+            "description": "Статистике о подацима, дијагностика система и апликације активности"
+        },
+        "hu": {
+            "name": "Rendszerfelügyelet",
+            "description": "Adatstatisztika, rendszerdiagnosztika és tevékenységkövető alkalmazások"
+        },
+        "hy": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "ia": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "id": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "io": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "is": {
+            "name": "Vöktun",
+            "description": "Tölfræði gagna, greining kerfis og virkniforrit"
+        },
+        "it": {
+            "name": "Monitoraggio",
+            "description": "Applicazioni di statistiche, diagnostica di sistema e attività"
+        },
+        "ja": {
+            "name": "モニタリング",
+            "description": "データ統計、システム診断およびアクティビティアプリケーション"
+        },
+        "ka": {
+            "name": "მინიტორინგი",
+            "description": "მონაცემთა სტატისტიკა, სისტემის დიაგნოზი და აქტივობის აპლიკაციები"
+        },
+        "kab": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "kk": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "km": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "kn": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "ko": {
+            "name": "모니터링",
+            "description": "데이터 통계, 시스템 진단 및 활동 관리 앱"
+        },
+        "lb": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "lt": {
+            "name": "Stebėsena",
+            "description": "Duomenų statistikos, sistemos diagnostikos ir veiklos programos"
+        },
+        "lv": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "mk": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "ml": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "mn": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "mr": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "my": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "nb": {
+            "name": "Overvåking",
+            "description": "Apper for statistikk, systemdiagnose og aktivitet"
+        },
+        "ne": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "te": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "th": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "tr": {
+            "name": "İzleme",
+            "description": "Veri istatistikleri, sistem tanılama ve işlem uygulamaları"
+        },
+        "tt": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "udm": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "uk": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "ar": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "ast": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "az": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "bg": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "be": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "ur": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "vi": {
+            "name": "Giám sát",
+            "description": "Các thống kê dữ liệu, các chuẩn đoán hệ thống và hoạt động của các ứng dụng"
+        },
+        "zh-hans": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "zh-hant": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "bn": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "br": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "bs": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "nl": {
+            "name": "Monitoren",
+            "description": "Gegevensstatistiek, systeem diagnose en activiteit apps"
+        },
+        "ca": {
+            "name": "Seguiment",
+            "description": "Apps sobre dades estadístiques, diagnosis de sistema i activitat"
+        },
+        "cs": {
+            "name": "Dohled",
+            "description": "Datové statistiky, diagnostiky systému a aktivity aplikací"
+        },
+        "cy": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "da": {
+            "name": "Monitorering",
+            "description": "Datastatistik, systemdiagnoser og -aktivitets apps"
+        },
+        "de": {
+            "name": "Überwachung",
+            "description": "Datenstatistiken-, Systemdiagnose- und Aktivitäten-Apps"
+        },
+        "dsb": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "el": {
+            "name": "Παρακολούθηση",
+            "description": "Στατιστικά δεδομένων, διαγνωστικά συστήματος και δραστηριότητα εφαρμογών"
+        },
+        "eo": {
+            "name": "Observado",
+            "description": "Statistiko, sistema diagnozo kaj aktivaĵoj"
+        },
+        "es": {
+            "name": "Monitorización",
+            "description": "Apps de estadísticas, diagnósticos del sistema y actividad"
+        },
+        "es-ar": {
+            "name": "Monitoreo",
+            "description": "Aplicaciones de estadística de datos, diagnóstico del sistema y actividad"
+        },
+        "es-co": {
+            "name": "Monitoreo",
+            "description": "Aplicaciones de estadística de datos, diagnóstico del sistema y actividad"
+        },
+        "es-mx": {
+            "name": "Monitoreo",
+            "description": "Aplicaciones de estadística de datos, diagnóstico del sistema y actividad"
+        },
+        "es-ni": {
+            "name": "Monitoreo",
+            "description": "Aplicaciones de estadística de datos, diagnóstico del sistema y actividad"
+        },
+        "es-ve": {
+            "name": "Monitorización",
+            "description": "Apps de estadísticas, diagnósticos del sistema y actividad"
+        },
+        "et": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "eu": {
+            "name": "Monitorizazioa",
+            "description": "Datu estatiktikak, sistema diagnostikoa eta jarduera app-ak"
+        },
+        "fa": {
+            "name": "نظارت بر",
+            "description": "آمار داده ها ، تشخیص سیستم و برنامه های فعالیت"
+        },
+        "nn": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "fi": {
+            "name": "Monitorointi",
+            "description": "Data tilastot, järjestelmädiagnostiikka ja aktiviteettisovellukset"
+        },
+        "os": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "fr": {
+            "name": "Supervision",
+            "description": "Applications de statistiques sur les données, de diagnostics systèmes et d'activité."
+        },
+        "pa": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "pl": {
+            "name": "Monitorowanie",
+            "description": "Statystyki, diagnostyka i aktywności"
+        },
+        "pt": {
+            "name": "Monitorização",
+            "description": "Estatísticas de dados, diagnósticos de sistema e aplicações de actividade "
+        },
+        "pt-br": {
+            "name": "Monitoramento",
+            "description": "Estatísticas de dados, diagnósticos de sistema e atividades de aplicativos"
+        },
+        "ro": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "gl": {
+            "name": "Supervisando",
+            "description": "Aplicacións de estatística de datos, diagnóstico do sistema e actividade"
+        },
+        "he": {
+            "name": "מעקב",
+            "description": "יישומונים לניתוח סטטיסטי, בדיקת המערכת ופעילויות"
+        },
+        "hi": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "hr": {
+            "name": "Praćenje",
+            "description": "Aplikacije za statistiku podataka, dijagnostiku sustava i aktivnosti"
+        },
+        "hsb": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "ru": {
+            "name": "Мониторинг",
+            "description": "Статистика данных, диагностика системы и активность приложений"
+        },
+        "sr-latn": {
+            "name": "Надгледање",
+            "description": "Статистике о подацима, дијагностика система и апликације активности"
+        },
+        "sv": {
+            "name": "Övervakning",
+            "description": "Datastatistik, systemdiagnostik och aktivitetsappar"
+        },
+        "sw": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        },
+        "ta": {
+            "name": "Monitoring",
+            "description": "Data statistics, system diagnostics and activity apps"
+        }
+    }
+}, {
+    "id": "multimedia",
+    "translations": {
+        "en": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "fy": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "ga": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "gd": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "af": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "ru": {
+            "name": "Мультимедиа",
+            "description": "Приложение аудио, видео и изображения"
+        },
+        "sk": {
+            "name": "Multimédiá",
+            "description": "Aplikácie pre audio, video a obrázky"
+        },
+        "sl": {
+            "name": "Večpredstavnost",
+            "description": "Programi za zvok, video in slike"
+        },
+        "sq": {
+            "name": "Multimedia",
+            "description": "Aplikacione audio, video dhe fotosh"
+        },
+        "sr": {
+            "name": "Мултимедија",
+            "description": "Апликације за аудио, видео и слике"
+        },
+        "hu": {
+            "name": "Multimédia",
+            "description": "Hang-, videó- és képalkalmazások"
+        },
+        "hy": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "ia": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "id": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "io": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "is": {
+            "name": "Margmiðlun",
+            "description": "Forrit fyrir hjóð, myndir og myndskeið"
+        },
+        "it": {
+            "name": "Multimedia",
+            "description": "Applicazioni per audio, video e immagini"
+        },
+        "ja": {
+            "name": "マルチメディア",
+            "description": "オーディオ、ビデオ、画像アプリ"
+        },
+        "ka": {
+            "name": "მულტიმედია",
+            "description": "აუდიო, ვიდეო და სურათების აპლიკაციები"
+        },
+        "kab": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "kk": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "km": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "kn": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "ko": {
+            "name": "멀티미디어",
+            "description": "오디오, 비디오, 사진 앱"
+        },
+        "lb": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "lt": {
+            "name": "Multimedija",
+            "description": "Garso, vaizdo ir paveikslėlių programėlės"
+        },
+        "lv": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "mk": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "ml": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "mn": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "mr": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "my": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "nb": {
+            "name": "Multimedia",
+            "description": "Apper for lyd, film og bilde"
+        },
+        "ne": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "te": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "th": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "tr": {
+            "name": "Çoklu Ortam",
+            "description": "Ses, görüntü ve fotoğraf uygulamaları"
+        },
+        "tt": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "udm": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "uk": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "ar": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "ast": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "az": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "bg": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "be": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "ur": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "vi": {
+            "name": "Giải trí đa phương tiện",
+            "description": "Ứng dụng âm thanh, video và ảnh"
+        },
+        "zh-hans": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "zh-hant": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "bn": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "br": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "bs": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "ca": {
+            "name": "Multimèdia",
+            "description": "Aplicacions d'àudio, vídeo i fotografies"
+        },
+        "cs": {
+            "name": "Multimédia",
+            "description": "Aplikace pro zvuk, video a obrázky"
+        },
+        "nl": {
+            "name": "Multimedia",
+            "description": "Audio, video en afbeelding apps"
+        },
+        "cy": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "da": {
+            "name": "Multimedie",
+            "description": "Lyd, billede og video apps"
+        },
+        "de": {
+            "name": "Multimedia",
+            "description": "Audio-, Video- und Bilder-Apps"
+        },
+        "dsb": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "el": {
+            "name": "Πολυμέσα",
+            "description": "Εφαρμογές ήχου, βίντεο και εικόνας"
+        },
+        "eo": {
+            "name": "Aŭdvidaĵoj",
+            "description": "Aŭdaĵo, videaĵo kaj bildoj"
+        },
+        "es": {
+            "name": "Multimedia",
+            "description": "Apps de sonido, video e imágenes"
+        },
+        "es-ar": {
+            "name": "Multimedia",
+            "description": "Aplicaciones de audio, video e imagenes"
+        },
+        "es-co": {
+            "name": "Multimedia",
+            "description": "Aplicaciones de audio, video e imágenes"
+        },
+        "es-mx": {
+            "name": "Multimedia",
+            "description": "Aplicaciones de audio, video e imágenes"
+        },
+        "es-ni": {
+            "name": "Multimedia",
+            "description": "Aplicaciones de audio, video e imágenes"
+        },
+        "es-ve": {
+            "name": "Multimedia",
+            "description": "Apps de sonido, video e imágenes"
+        },
+        "et": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "eu": {
+            "name": "Multimedia",
+            "description": "Audio, bideo eta argazki app-ak"
+        },
+        "fa": {
+            "name": "چند رسانه ای",
+            "description": "برنامه های صوتی ، ویدیویی و تصویری"
+        },
+        "nn": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "fi": {
+            "name": "Multimedia",
+            "description": "Ääni-, video- ja kuvasovellukset"
+        },
+        "os": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "pa": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "fr": {
+            "name": "Multimédia",
+            "description": "Applications audio, vidéo et image"
+        },
+        "pl": {
+            "name": "Multimedia",
+            "description": "Aplikacje graficzne, audio i wideo"
+        },
+        "pt": {
+            "name": "Multimédia",
+            "description": "Aplicações de Áudio, Vídeo e Imagens"
+        },
+        "pt-br": {
+            "name": "Multimídia",
+            "description": "Aplicativos de áudio, vídeo e imagem"
+        },
+        "ro": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "gl": {
+            "name": "Multimedia",
+            "description": "Aplicacións de son, vídeo e imaxes"
+        },
+        "he": {
+            "name": "מולטימדיה",
+            "description": "יישומוני שמע, וידאו ותמונות"
+        },
+        "hi": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "hr": {
+            "name": "Multimedija",
+            "description": "Audio, video i slikovne aplikacije"
+        },
+        "hsb": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "sr-latn": {
+            "name": "Мултимедија",
+            "description": "Апликације за аудио, видео и слике"
+        },
+        "sv": {
+            "name": "Multimedia",
+            "description": "Ljud, video, och bildappar"
+        },
+        "sw": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        },
+        "ta": {
+            "name": "Multimedia",
+            "description": "Audio, video and picture apps"
+        }
+    }
+}, {
+    "id": "office",
+    "translations": {
+        "ga": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "fy": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "gd": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "en": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "af": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "ru": {
+            "name": "Офис и текст",
+            "description": "Офисные приложения и приложения для обработки текста"
+        },
+        "sk": {
+            "name": "Kancelária & text",
+            "description": "Kancelárske a textové aplikácie"
+        },
+        "sl": {
+            "name": "Pisarniška orodja",
+            "description": "Programi za pisarniške naloge"
+        },
+        "sq": {
+            "name": "Zyre dhe tekst",
+            "description": "Aplikacione për zyra dhe procesimin e teksteve"
+        },
+        "hu": {
+            "name": "Iroda és szöveg",
+            "description": "Irodai és szövegfeldolgozó alkalmazások"
+        },
+        "hy": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "ia": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "id": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "io": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "is": {
+            "name": "Skrifstofuforrit og texti",
+            "description": "Skrifstofuforrit og textavinnsluforrit"
+        },
+        "it": {
+            "name": "Ufficio e testo",
+            "description": "Applicazione per ufficio ed elaborazione di testi"
+        },
+        "ja": {
+            "name": "Office & テキスト",
+            "description": "Officeとテキスト処理アプリケーション"
+        },
+        "ka": {
+            "name": "ოფისი და ტექსტი",
+            "description": "ოფისი და ტექსტის დამუშავების აპლიკაციები"
+        },
+        "kab": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "kk": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "km": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "kn": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "ko": {
+            "name": "오피스 및 텍스트",
+            "description": "오피스 및 텍스트 처리 앱"
+        },
+        "lb": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "lt": {
+            "name": "Raštinė ir tekstas",
+            "description": "Raštinės ir teksto apdorojimo programėlės"
+        },
+        "lv": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "mk": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "ml": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "mn": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "mr": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "my": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "nb": {
+            "name": "Kontorstøtte og tekst",
+            "description": "Apper for kontorstøtte og tekstbehandling"
+        },
+        "ne": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "te": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "th": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "tr": {
+            "name": "Ofis ve Metin",
+            "description": "Ofis ve metin işleme uygulamaları"
+        },
+        "tt": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "udm": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "uk": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "ar": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "ast": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "az": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "bg": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "be": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "ur": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "vi": {
+            "name": "Văn phòng và văn bản",
+            "description": "Ứng dụng xử lý cho văn phòng và văn bản"
+        },
+        "zh-hans": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "zh-hant": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "bn": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "br": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "bs": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "ca": {
+            "name": "Oficina i textos",
+            "description": "Apps d’oficina i processament de textos"
+        },
+        "cs": {
+            "name": "Kancelář a text",
+            "description": "Aplikace pro kancelář a zpracování textu"
+        },
+        "cy": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "da": {
+            "name": "Kontor & tekstbehandling",
+            "description": "Apps til kontor og tekstbehandling"
+        },
+        "de": {
+            "name": "Büro & Text",
+            "description": "Büro- und Textverarbeitungs-Apps"
+        },
+        "dsb": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "el": {
+            "name": "Γραφείο & κείμενο",
+            "description": "Εφαρμογές γραφείου και επεξεργασίας κειμένου "
+        },
+        "eo": {
+            "name": "Oficejo kaj teksto",
+            "description": "Oficeja programaro kaj tekstotraktado"
+        },
+        "es": {
+            "name": "Oficina y texto",
+            "description": "Apps de oficina y procesado de texto"
+        },
+        "es-ar": {
+            "name": "Oficina & texto",
+            "description": "Aplicaciones de procesamiento de texto y oficina"
+        },
+        "es-co": {
+            "name": "Oficina & texto",
+            "description": "Aplicaciones de procesamiento de texto y oficina"
+        },
+        "es-mx": {
+            "name": "Oficina & texto",
+            "description": "Aplicaciones de procesamiento de texto y oficina"
+        },
+        "nl": {
+            "name": "Office & tekst",
+            "description": "Office en tekstverwerkingsapps"
+        },
+        "es-ni": {
+            "name": "Oficina & texto",
+            "description": "Aplicaciones de procesamiento de texto y oficina"
+        },
+        "es-ve": {
+            "name": "Oficina y texto",
+            "description": "Apps de oficina y procesado de texto"
+        },
+        "et": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "eu": {
+            "name": "Bulegoa eta testua",
+            "description": "Bulegoak eta testu prozesatzaileen app-ak"
+        },
+        "fa": {
+            "name": "دفتر و متن",
+            "description": "برنامه های اداری و پردازش متن"
+        },
+        "nn": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "fi": {
+            "name": "Toimisto & teksti",
+            "description": "Toimisto- ja tekstinkäsittelysovellukset"
+        },
+        "os": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "pa": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "pl": {
+            "name": "Biuro i tekst",
+            "description": "Aplikacje biurowe i przetwarzania tekstu"
+        },
+        "pt": {
+            "name": "Escritório & texto",
+            "description": "Aplicações de escritório e processamento de texto"
+        },
+        "pt-br": {
+            "name": "Escritório & texto",
+            "description": "Aplicativos para processamento de Office e texto"
+        },
+        "ro": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "fr": {
+            "name": "Bureautique & texte",
+            "description": "Applications de bureautique et de traitement de texte"
+        },
+        "gl": {
+            "name": "Oficina e texto",
+            "description": "Aplicacións de oficina e de procesamento de texto"
+        },
+        "he": {
+            "name": "כלים משרדיים וטקסט",
+            "description": "יישומונים לעיבוד טקסט וכלים משרדיים"
+        },
+        "hi": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "hr": {
+            "name": "Ured i tekst",
+            "description": "Uredske aplikacije i aplikacije obradu teksta"
+        },
+        "hsb": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "sr": {
+            "name": "Канцеларија и текст",
+            "description": "Апликације за обраду текста и рад у канцеларији"
+        },
+        "sr-latn": {
+            "name": "Канцеларија и текст",
+            "description": "Апликације за обраду текста и рад у канцеларији"
+        },
+        "sv": {
+            "name": "Kontor & text",
+            "description": "Appar för kontor och texthantering"
+        },
+        "sw": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        },
+        "ta": {
+            "name": "Office & text",
+            "description": "Office and text processing apps"
+        }
+    }
+}, {
+    "id": "organization",
+    "translations": {
+        "en": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "fr": {
+            "name": "Organisation",
+            "description": "Applications de gestion du temps, de listes de tâches et d'agendas"
+        },
+        "fy": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "ga": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "gd": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "af": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "ru": {
+            "name": "Организация",
+            "description": "Приложения по управлению временем, список задач и календарь"
+        },
+        "sk": {
+            "name": "Organizácia",
+            "description": "Aplikácie na organizáciu času, správu úloh a kalendárov"
+        },
+        "sl": {
+            "name": "Organizacija",
+            "description": "Upravljanje s časom, seznami nalog in koledarji"
+        },
+        "sq": {
+            "name": "Organizate",
+            "description": "Aplikacion per menaxhimin e kohes , listat per gjerat qe duhen bere dhe kalendar"
+        },
+        "hu": {
+            "name": "Szervezet",
+            "description": "Időbeosztás, teendőlista és naptár alkalmazások"
+        },
+        "hy": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "ia": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "id": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "io": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "is": {
+            "name": "Stofnun/Samtök/Félag",
+            "description": "Tímastjórnun, verkefnalistar og dagatalaforrit"
+        },
+        "it": {
+            "name": "Organizzazione",
+            "description": "Applicazioni di gestione del tempo, elenco delle cose da fare e calendario"
+        },
+        "ja": {
+            "name": "共同作業",
+            "description": "時間管理、Todoリスト、カレンダーアプリ"
+        },
+        "ka": {
+            "name": "ორგანიზაცია",
+            "description": "დროის მენეჯმენტი, დავალებების სია და კალენდრის აპლიკაციები"
+        },
+        "kab": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "kk": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "km": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "kn": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "ko": {
+            "name": "개인 정보 관리",
+            "description": "시간 관리, 할 일, 캘린더 앱"
+        },
+        "lb": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "lt": {
+            "name": "Organizavimas",
+            "description": "Laiko planavimo, darbų sąrašo ir kalendoriaus programos"
+        },
+        "lv": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "mk": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "ml": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "mn": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "mr": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "my": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "nb": {
+            "name": "Organisering",
+            "description": "Apper for tidsstyring, oppgaveliste og kalender"
+        },
+        "ne": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "te": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "th": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "tr": {
+            "name": "Kuruluş",
+            "description": "Zaman yönetimi, görev listesi ve takvim uygulamaları"
+        },
+        "tt": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "udm": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "uk": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "ar": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "ast": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "az": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "bg": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "be": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "ur": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "vi": {
+            "name": "Tổ chức",
+            "description": "Ứng dụng uản lý thời gian, danh sách cần làm và lịch"
+        },
+        "zh-hans": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "zh-hant": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "bn": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "br": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "bs": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "ca": {
+            "name": "Organització",
+            "description": "Aplicacions de gestió del temps, llista de tasques i calendari"
+        },
+        "cs": {
+            "name": "Organizování",
+            "description": "Aplikace pro správu času, plánování a kalendáře"
+        },
+        "cy": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "da": {
+            "name": "Organisering",
+            "description": "Tidsstyring, todo list og kalender apps"
+        },
+        "de": {
+            "name": "Organisation",
+            "description": "Zeitmanagement-, Aufgabenlisten- und Kalender-Apps"
+        },
+        "dsb": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "el": {
+            "name": "Οργανισμός",
+            "description": "Εφαρμογές διαχείρισης χρόνου, λιστών εκκρεμοτήτων και ημερολόγια"
+        },
+        "eo": {
+            "name": "Organizaĵo",
+            "description": "Tempadministrado, listo de farendaĵoj kaj kalendaro"
+        },
+        "es": {
+            "name": "Organización",
+            "description": "Apps de manejo del tiempo, listas de tareas y calendarios"
+        },
+        "es-ar": {
+            "name": "Organización",
+            "description": "Aplicaciones de adminsitración del tiempo, lista de pendientes y calendario"
+        },
+        "es-co": {
+            "name": "Organización",
+            "description": "Aplicaciones de adminsitración del tiempo, lista de pendientes y calendario"
+        },
+        "es-mx": {
+            "name": "Organización",
+            "description": "Aplicaciones de adminsitración del tiempo, lista de pendientes y calendario"
+        },
+        "es-ni": {
+            "name": "Organización",
+            "description": "Aplicaciones de adminsitración del tiempo, lista de pendientes y calendario"
+        },
+        "es-ve": {
+            "name": "Organización",
+            "description": "Apps de manejo del tiempo, listas de tareas y calendarios"
+        },
+        "et": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "eu": {
+            "name": "Antolakuntza",
+            "description": "Denboraren kudeaketa, egitekoen zerrenda eta egutegi aplikazioak"
+        },
+        "nl": {
+            "name": "Organisatie",
+            "description": "Tijdmanagement, takenlijsten en agenda apps"
+        },
+        "fa": {
+            "name": "سازمان",
+            "description": "مدیریت زمان ، لیست Todo و برنامه های تقویم"
+        },
+        "nn": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "fi": {
+            "name": "Organisaatio",
+            "description": "Ajanhallinta-, todo-lista- ja kalenterisovellukset"
+        },
+        "os": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "pa": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "pl": {
+            "name": "Organizacja",
+            "description": "Aplikacje do zarządzania czasem, listami zadań i kalendarze"
+        },
+        "pt": {
+            "name": "Organização",
+            "description": "Aplicações de Gestão de tempo, lista de tarefas e calendário"
+        },
+        "pt-br": {
+            "name": "Organização",
+            "description": "Aplicativos de gerenciamento de tempo, lista de tarefas e calendários"
+        },
+        "ro": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "gl": {
+            "name": "Organización",
+            "description": "Aplicacións de xestión do tempo, listas de tarefas e calendarios"
+        },
+        "he": {
+            "name": "ארגון",
+            "description": "יישומוני ניהול זמנים, רשימת מטלות ולוח שנה"
+        },
+        "hi": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "hr": {
+            "name": "Organizacija",
+            "description": "Aplikacije za upravljanje vremenom, zadacima i kalendarom"
+        },
+        "hsb": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "sr": {
+            "name": "Организација",
+            "description": "Управљање временом, TODO листе и апликације са календарима"
+        },
+        "sr-latn": {
+            "name": "Организација",
+            "description": "Управљање временом, TODO листе и апликације са календарима"
+        },
+        "sv": {
+            "name": "Organisering",
+            "description": "Tidshantering, uppgifter och kalender appar"
+        },
+        "sw": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        },
+        "ta": {
+            "name": "Organization",
+            "description": "Time management, Todo list and calendar apps"
+        }
+    }
+}, {
+    "id": "search",
+    "translations": {
+        "en": {
+            "name": "Search",
+            "description": "Search related apps"
+        },
+        "fr": {
+            "name": "Rechercher",
+            "description": "Rechercher des applications similaires"
+        },
+        "fy": {
+            "name": "Search",
+            "description": "Search related apps"
+        },
+        "ga": {
+            "name": "Cuardach",
+            "description": "Search related apps"
+        },
+        "gd": {
+            "name": "Lorg",
+            "description": "Search related apps"
+        },
+        "af": {
+            "name": "Soek",
+            "description": "Search related apps"
+        },
+        "ru": {
+            "name": "Поиск",
+            "description": "Поиск подходящих приложений"
+        },
+        "sk": {
+            "name": "Hľadať",
+            "description": "Vyhľadať súvisiace aplikácie"
+        },
+        "sl": {
+            "name": "Iskanje",
+            "description": "Iskalniki in sorodni programi"
+        },
+        "sq": {
+            "name": "Kërko",
+            "description": "Kërko aplikacione të ngjashme"
+        },
+        "hu": {
+            "name": "Keresés",
+            "description": "Hasonló alkalmazások keresése"
+        },
+        "hy": {
+            "name": "Որոնում",
+            "description": "Search related apps"
+        },
+        "ia": {
+            "name": "Cercar",
+            "description": "Search related apps"
+        },
+        "id": {
+            "name": "Cari",
+            "description": "Search related apps"
+        },
+        "io": {
+            "name": "Serchar",
+            "description": "Search related apps"
+        },
+        "is": {
+            "name": "Leita",
+            "description": "Leita að tengdum forritum"
+        },
+        "it": {
+            "name": "Cerca",
+            "description": "Cerca le applicazioni correlate"
+        },
+        "ja": {
+            "name": "検索",
+            "description": "関連アプリを検索"
+        },
+        "ka": {
+            "name": "ძიება",
+            "description": "Search related apps"
+        },
+        "kab": {
+            "name": "Anadi",
+            "description": "Search related apps"
+        },
+        "kk": {
+            "name": "Іздеу",
+            "description": "Search related apps"
+        },
+        "km": {
+            "name": "Search",
+            "description": "Search related apps"
+        },
+        "kn": {
+            "name": "Search",
+            "description": "Search related apps"
+        },
+        "ko": {
+            "name": "검색",
+            "description": "관련된 앱을 검색합니다"
+        },
+        "lb": {
+            "name": "Search",
+            "description": "Search related apps"
+        },
+        "lt": {
+            "name": "Paieška",
+            "description": "Ieškoti susijusių programėlių"
+        },
+        "lv": {
+            "name": "Meklēt",
+            "description": "Search related apps"
+        },
+        "mk": {
+            "name": "Пребарај",
+            "description": "Search related apps"
+        },
+        "ml": {
+            "name": "പരതുക",
+            "description": "Search related apps"
+        },
+        "mn": {
+            "name": "Хайлт",
+            "description": "Search related apps"
+        },
+        "mr": {
+            "name": "Search",
+            "description": "Search related apps"
+        },
+        "my": {
+            "name": "ရှာဖွေ",
+            "description": "Search related apps"
+        },
+        "nb": {
+            "name": "Søk",
+            "description": "Søk etter relaterte apper"
+        },
+        "ne": {
+            "name": "खोज्नुहोस",
+            "description": "Search related apps"
+        },
+        "te": {
+            "name": "వెతుకు",
+            "description": "Search related apps"
+        },
+        "th": {
+            "name": "ค้นหา",
+            "description": "Search related apps"
+        },
+        "tr": {
+            "name": "Ara",
+            "description": "İlişkili uygulamalarda arama"
+        },
+        "tt": {
+            "name": "Эзләргә",
+            "description": "Search related apps"
+        },
+        "udm": {
+            "name": "Search",
+            "description": "Search related apps"
+        },
+        "uk": {
+            "name": "Пошук",
+            "description": "Search related apps"
+        },
+        "ar": {
+            "name": "بحث",
+            "description": "Search related apps"
+        },
+        "ast": {
+            "name": "Search",
+            "description": "Search related apps"
+        },
+        "az": {
+            "name": "Axtarış",
+            "description": "Search related apps"
+        },
+        "bg": {
+            "name": "Търсене",
+            "description": "Search related apps"
+        },
+        "be": {
+            "name": "Шукаць",
+            "description": "Search related apps"
+        },
+        "ur": {
+            "name": "تلاش کریں",
+            "description": "Search related apps"
+        },
+        "vi": {
+            "name": "Tìm",
+            "description": "Tìm kiếm các ứng dụng liên quan"
+        },
+        "zh-hans": {
+            "name": " 搜索",
+            "description": "Search related apps"
+        },
+        "zh-hant": {
+            "name": "搜尋",
+            "description": "Search related apps"
+        },
+        "bn": {
+            "name": "সার্চ",
+            "description": "Search related apps"
+        },
+        "br": {
+            "name": "Klask",
+            "description": "Search related apps"
+        },
+        "bs": {
+            "name": "Pretraga",
+            "description": "Search related apps"
+        },
+        "ca": {
+            "name": "Cerca",
+            "description": "Cerca aplicacions relacionades"
+        },
+        "cs": {
+            "name": "Hledání",
+            "description": "Hledat související aplikace"
+        },
+        "cy": {
+            "name": "Chwilio",
+            "description": "Search related apps"
+        },
+        "da": {
+            "name": "Søg",
+            "description": "Søgnings relaterede apps"
+        },
+        "de": {
+            "name": "Suche",
+            "description": "Verwandte Apps durchsuchen"
+        },
+        "dsb": {
+            "name": "Pytaś",
+            "description": "Search related apps"
+        },
+        "el": {
+            "name": "Αναζήτηση",
+            "description": "Αναζήτηση σχετικών εφαρμογών"
+        },
+        "eo": {
+            "name": "Serĉi",
+            "description": "Serĉi rilatajn aplikaĵojn"
+        },
+        "es": {
+            "name": "Buscar",
+            "description": "Buscar apps relacionadas"
+        },
+        "es-ar": {
+            "name": "Buscar",
+            "description": "Buscar aplicaciones relacionadas"
+        },
+        "es-co": {
+            "name": "Buscar",
+            "description": "Buscar aplicaciones relacionadas"
+        },
+        "es-mx": {
+            "name": "Buscar",
+            "description": "Buscar aplicaciones relacionadas"
+        },
+        "es-ni": {
+            "name": "Buscar",
+            "description": "Buscar apps relacionadas"
+        },
+        "es-ve": {
+            "name": "Buscar",
+            "description": "Buscar apps relacionadas"
+        },
+        "et": {
+            "name": "Otsing",
+            "description": "Search related apps"
+        },
+        "eu": {
+            "name": "Bilatu",
+            "description": "Zerikusia duten aplikazioak bilatu"
+        },
+        "nl": {
+            "name": "Zoek",
+            "description": "Zoek gerelateerde apps"
+        },
+        "fa": {
+            "name": "جستجو",
+            "description": "برنامه های مرتبط را جستجو کنید"
+        },
+        "nn": {
+            "name": "Søk",
+            "description": "Search related apps"
+        },
+        "fi": {
+            "name": "Etsi",
+            "description": "Hakuun liittyvät sovellukset"
+        },
+        "os": {
+            "name": "Агурын",
+            "description": "Search related apps"
+        },
+        "pa": {
+            "name": "ਖੋਜ",
+            "description": "Search related apps"
+        },
+        "pl": {
+            "name": "Wyszukiwanie",
+            "description": "Wyszukaj powiązane aplikacje"
+        },
+        "pt": {
+            "name": "Pesquisar",
+            "description": "Search related apps"
+        },
+        "pt-br": {
+            "name": "Busca",
+            "description": "Pesquisar aplicativos relacionados"
+        },
+        "ro": {
+            "name": "Căutare",
+            "description": "Search related apps"
+        },
+        "gl": {
+            "name": "Buscar",
+            "description": "Buscar aplicacións relacionadas"
+        },
+        "he": {
+            "name": "חיפוש",
+            "description": "חיפוש יישומונים תואמים"
+        },
+        "hi": {
+            "name": "खोज",
+            "description": "Search related apps"
+        },
+        "hr": {
+            "name": "Traži",
+            "description": "Pretraži povezane aplikacije"
+        },
+        "hsb": {
+            "name": "Pytać",
+            "description": "Search related apps"
+        },
+        "sr": {
+            "name": "Претрага",
+            "description": "Претражи сличне апликације"
+        },
+        "sr-latn": {
+            "name": "Претрага",
+            "description": "Претражи сличне апликације"
+        },
+        "sv": {
+            "name": "Sök",
+            "description": "Sök relaterade appar"
+        },
+        "sw": {
+            "name": "Tafuta",
+            "description": "Search related apps"
+        },
+        "ta": {
+            "name": "Search",
+            "description": "Search related apps"
+        }
+    }
+}, {
+    "id": "security",
+    "translations": {
+        "en": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "fr": {
+            "name": "Sécurité",
+            "description": "Des applications qui fournissent des mécanismes de sécurité supplémentaires comme l'authentification, les autorisation, le chiffrement, etc."
+        },
+        "fy": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "ga": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "gd": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "ru": {
+            "name": "Безопасность",
+            "description": "Приложения, которые предоставляют дополнительные механизмы безопасности, такие, как аутентификация, авторизация, шифрование итд."
+        },
+        "sk": {
+            "name": "Zabezpečenie",
+            "description": "Aplikácie, ktoré poskytujú ďalšie bezpečnostné mechanizmy, ako je autentifikácia, autorizácia, šifrovanie atď."
+        },
+        "sl": {
+            "name": "Varnost",
+            "description": "Programi za zagotavljanje varnosti delovanja, overjanje, šifriranje in podobno."
+        },
+        "sq": {
+            "name": "Siguria",
+            "description": "Aplikacione që ofrojnë mekanizma shtesë sigurie si autentikim, autorizim, enkriptim, etj."
+        },
+        "hu": {
+            "name": "Biztonság",
+            "description": "Alkalmazások, melyek további biztonsági mechanizmusokat biztosítanak az hitelesítéshez, engedélyezéshez, titkosításhoz, stb."
+        },
+        "hy": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "ia": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "id": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "io": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "is": {
+            "name": "Öryggi",
+            "description": "Forrit sem gefa stuðning við viðbótaröryggiseiginleika, eins og auðkenningu, heimildaþjónustur, dulritun o.s.frv."
+        },
+        "it": {
+            "name": "Sicurezza",
+            "description": "Apps che forniscono meccanismi aggiuntivi di sicurezza come autenticazioni, autorizzazioni, crittografia, ecc."
+        },
+        "ja": {
+            "name": "セキュリティ",
+            "description": "アプリは、認証、承認、暗号化などにより追加のセキュリティ対策が提供されます。"
+        },
+        "ka": {
+            "name": "უსაფრთხოება",
+            "description": "აპლიკაციები რომლებიც უზრუნველყოფენ დამატებით უსაფრთხოების მექანიზმებს, ისეთებს როგორებიცაა ავტორიზაცია, აუტენტიფიკაცია, კოდირება, ა.შ."
+        },
+        "kab": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "kk": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "km": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "kn": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "ko": {
+            "name": "보안",
+            "description": "인증, 암호화 등 추가 보안 기능을 제공하는 앱"
+        },
+        "lb": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "lt": {
+            "name": "Saugumas",
+            "description": "Taikomosios programos, kurios atsakingos už papildomus saugos mechanizmus tokius, kaip tapatybės nustatymas, autorizacija, šifravimas ir pan."
+        },
+        "lv": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "mk": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "ml": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "mn": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "af": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "mr": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "my": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "nb": {
+            "name": "Sikkerhet",
+            "description": "Apper som tilbyr ekstra sikkerhetsmekanismer som autentisering, identitetsbekreftelse, kryptering, osv."
+        },
+        "ne": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "te": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "th": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "tr": {
+            "name": "Güvenlik",
+            "description": "Kimlik doğrulama, şifreleme vb ek güvenlik mekanizmaları sağlayan uygulamalar."
+        },
+        "tt": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "udm": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "uk": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "ar": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "ast": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "az": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "bg": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "be": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "ur": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "vi": {
+            "name": "Bảo mật",
+            "description": "Ứng dụng cung cấp thêm cách thức bảo mật như mã hóa, xác minh, cho phép, vv."
+        },
+        "zh-hans": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "zh-hant": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "bn": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "br": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "bs": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "ca": {
+            "name": "Seguretat",
+            "description": "Aplicacions que proporcionen mecanismes addicionals de seguretat com l'autenticació, autorització, encriptació, etc."
+        },
+        "cs": {
+            "name": "Zabezpečení",
+            "description": "Aplikace, které poskytují další bezpečnostní mechanismy, jako je ověřování, pověřování, šifrování, atd."
+        },
+        "cy": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "da": {
+            "name": "Sikkerhed",
+            "description": "Apps der tilbyder yderligere sikkerhedsmekanismer såsom autentifikation, bemyndigelse, kryptering osv."
+        },
+        "de": {
+            "name": "Sicherheit",
+            "description": "Apps die zusätzliche Sicherheitsmechanismen bereitstellen, wie z.B. Authentifizierung, Autorisierung, Verschlüsselung usw."
+        },
+        "dsb": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "el": {
+            "name": "Ασφάλεια",
+            "description": "Εφαρμογές που παρέχουν πρόσθετους μηχανισμούς ασφαλείας όπως πιστοποίηση, εξουσιοδότηση, κρυπτογράφηση κ.λπ."
+        },
+        "eo": {
+            "name": "Sekurigo",
+            "description": "Aplikaĵoj, kiuj aldonas plian sekurigan rimedaron, kiel aŭtentigo, rajtigo, ĉifrado, k.t.p."
+        },
+        "es": {
+            "name": "Seguridad",
+            "description": "Apps que proporcionan mecanismos de seguridad adicionales, como autenticación, autorización, cifrado, etc."
+        },
+        "es-ar": {
+            "name": "Seguridad",
+            "description": "Aplicaciones que proporcionan mecanismos de seguridad adicionales como autenticación, autorización, cifrado, etc."
+        },
+        "es-co": {
+            "name": "Seguridad",
+            "description": "Aplicaciones que proporcionan mecanismos de seguridad adicionales como autenticación, autorización, encripción, etc."
+        },
+        "es-mx": {
+            "name": "Seguridad",
+            "description": "Aplicaciones que proporcionan mecanismos de seguridad adicionales como autenticación, autorización, encripción, etc."
+        },
+        "es-ni": {
+            "name": "Seguridad",
+            "description": "Aplicaciones que proporcionan mecanismos de seguridad adicionales como autenticación, autorización, encripción, etc."
+        },
+        "es-ve": {
+            "name": "Seguridad",
+            "description": "Apps que proporcionan mecanismos de seguridad adicionales, como autenticación, autorización, cifrado, etc."
+        },
+        "et": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "eu": {
+            "name": "Segurtasuna",
+            "description": "Segurtasun gehiago emateko app-ak, adibidez autentikazioa, autorizazioa, enkriptazioa eta abar."
+        },
+        "nl": {
+            "name": "Beveiliging",
+            "description": "Apps die extra beveiligingsmechanismen bieden zoals authenticatie, autorisatie, encryptie, enz."
+        },
+        "fa": {
+            "name": "امنیت",
+            "description": "برنامه هایی که مکانیزم های امنیتی اضافی مانند تأیید اعتبار ، مجوز ، رمزگذاری و غیره را ارائه می دهند."
+        },
+        "nn": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "fi": {
+            "name": "Tietoturva",
+            "description": "Sovellukset, jotka tarjoavat lisäsuojausmekanismeja, kuten todennusta, valtuutusta, salausta jne."
+        },
+        "os": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "pa": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "pl": {
+            "name": "Bezpieczeństwo",
+            "description": "Aplikacje zapewniające dodatkowe mechanizmy bezpieczeństwa jak uwierzytelnianie, autoryzacja, szyfrowanie, itp."
+        },
+        "pt": {
+            "name": "Segurança",
+            "description": "Aplicações que oferecem mecanismos de segurança adicional como autenticação, autorização, cifragem, etc."
+        },
+        "pt-br": {
+            "name": "Segurança",
+            "description": "Aplicativos que fornecem mecanismos de segurança adicional como autenticação, autorização, criptografia, etc."
+        },
+        "ro": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "gl": {
+            "name": "Seguridade",
+            "description": "Aplicacións que fornecen mecanismos de seguridade adicionais, como autenticación, autorización, cifrado, etc."
+        },
+        "he": {
+            "name": "אבטחה",
+            "description": "יישומונים שמספקים מנגנוני אבטחה נוספים כגון אימות, אישור, הצפנה ועוד."
+        },
+        "hi": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "hr": {
+            "name": "Sigurnost",
+            "description": "Aplikacije koje pružaju dodatne sigurnosne mehanizme poput provjere autentičnosti, autorizacije, šifriranja itd."
+        },
+        "hsb": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "sr": {
+            "name": "Безбедност",
+            "description": "Апликације које обезбеђују додатне безбедоносне механизме, као што су пријављивање, провера идентитета, шифровање итд."
+        },
+        "sr-latn": {
+            "name": "Безбедност",
+            "description": "Апликације које обезбеђују додатне безбедоносне механизме, као што су пријављивање, провера идентитета, шифровање итд."
+        },
+        "sv": {
+            "name": "Säkerhet",
+            "description": "Appar som erbjuder ytterligare säkerhetsmekanismer som autentisering, tillstånd, kryptering, etc."
+        },
+        "sw": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        },
+        "ta": {
+            "name": "Security",
+            "description": "Apps that provide additional security mechanisms like authentication, authorization, encryption, etc."
+        }
+    }
+}, {
+    "id": "social",
+    "translations": {
+        "en": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "fr": {
+            "name": "Social & communication",
+            "description": "Applications de messagerie, de gestion de contacts et de réseaux sociaux"
+        },
+        "fy": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "ga": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "gd": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "ru": {
+            "name": "Социальное и связь",
+            "description": "Общение, управление контактами и социальное медиа-приложение"
+        },
+        "sk": {
+            "name": "Sociálne siete a komunikácia",
+            "description": "Aplikácie pre výmenu správ, správu kontaktov a sociálne siete"
+        },
+        "sl": {
+            "name": "Družbene dejavnosti",
+            "description": "Sporočanje, upravljanje stikov in družbena omrežja"
+        },
+        "sq": {
+            "name": "Social & komunikim",
+            "description": "Te shkruheni , kontaktoni menaxhimin dhe aplikacionet e mediave sociale"
+        },
+        "hu": {
+            "name": "Közösség és kommunikáció",
+            "description": "Üzenetküldő, kapcsolatkezelő és közösségi média alkalmazások"
+        },
+        "hy": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "ia": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "id": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "io": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "is": {
+            "name": "Samskipti og samfélagsmiðlar",
+            "description": "Samskipti, umsýsla tengiliða og samfélagsmiðlaforrit"
+        },
+        "it": {
+            "name": "Sociale e comunicazione",
+            "description": "Applicazioni di messaggistica, gestione dei contatti e reti sociali"
+        },
+        "ja": {
+            "name": "ソーシャル・コミュニケーション",
+            "description": "メッセージング、連絡先管理、ソーシャルメディアアプリ"
+        },
+        "ka": {
+            "name": "სოცალური და კომუნიკაცია",
+            "description": "მიმოწერა, კონტაქტების მენეჯმენტი და სოციალური მედიის აპლიკაციები"
+        },
+        "kab": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "kk": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "km": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "kn": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "ko": {
+            "name": "소셜 및 통신",
+            "description": "메시징, 연락처 관리, 소셜 미디어 앱"
+        },
+        "lb": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "lt": {
+            "name": "Socialiniai reikalai ir bendravimas",
+            "description": "Pranešimų, adresatų valdymo ir socialinės žiniasklaidos taikomosios programos"
+        },
+        "lv": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "mk": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "ml": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "mn": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "mr": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "my": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "nb": {
+            "name": "Sosialt og kommunikasjon",
+            "description": "Apper for meldinger, kontakthåndtering og sosiale medier"
+        },
+        "ne": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "te": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "th": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "tr": {
+            "name": "Sosyal Ağ ve İletişim",
+            "description": "İletişim, kişi yönetimi ve sosyal ağ uygulamaları"
+        },
+        "tt": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "udm": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "uk": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "af": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "ar": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "ast": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "az": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "bg": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "be": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "ur": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "vi": {
+            "name": "Xã hội và cách thức trao đổi",
+            "description": "Ứng dụng nhắn tin, quản lý liên hệ và mạng xã hội"
+        },
+        "zh-hans": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "zh-hant": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "bn": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "br": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "bs": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "ca": {
+            "name": "Social i comunicacions",
+            "description": "Aplicacions de missatgeria, gestió de contactes i mitjans de comunicació social"
+        },
+        "cs": {
+            "name": "Sociální sítě a komunikace",
+            "description": "Aplikace pro zasílání zpráv, správu kontaktů a sociální sítě"
+        },
+        "cy": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "da": {
+            "name": "Socialt & kommunikation",
+            "description": "Apps til beskeder, kontakter og sociale medier"
+        },
+        "de": {
+            "name": "Kommunikation",
+            "description": "Nachrichten-, Kontaktverwaltungs- und Social-Media-Apps"
+        },
+        "dsb": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "el": {
+            "name": "Κοινωνικά και επικοινωνία",
+            "description": "Εφαρμογές επικοινωνίας, διαχείρισης επαφών και μέσων κοινωνικής δικτύωσης"
+        },
+        "eo": {
+            "name": "Sociaj kaj komunikaj iloj",
+            "description": "Mesaĝado, kontaktmastrumado kaj sociaj komunikiloj"
+        },
+        "es": {
+            "name": "Social y comunicación",
+            "description": "Apps de mensajería, manejo de contactos y medios sociales"
+        },
+        "es-ar": {
+            "name": "Social & comunicación",
+            "description": "Aplicaciones de mensajería, administración de contactos y medios sociales"
+        },
+        "es-co": {
+            "name": "Social & comunicación",
+            "description": "Aplicaciones de mensajería, administración de contactos y medios sociales"
+        },
+        "es-mx": {
+            "name": "Social & comunicación",
+            "description": "Aplicaciones de mensajería, administración de contactos y medios sociales"
+        },
+        "es-ni": {
+            "name": "Social & comunicación",
+            "description": "Aplicaciones de mensajería, administración de contactos y medios sociales"
+        },
+        "es-ve": {
+            "name": "Social y comunicación",
+            "description": "Apps de mensajería, manejo de contactos y medios sociales"
+        },
+        "et": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "eu": {
+            "name": "Soziala eta komunikazioa",
+            "description": "Mezularitza, kontaktuen kudeaketa eta sare sozialen app-ak"
+        },
+        "nl": {
+            "name": "Sociaal & communicatie",
+            "description": "Messaging, contactbeheer en social media apps"
+        },
+        "fa": {
+            "name": "ارتباط اجتماعی",
+            "description": "برنامه های پیام رسانی ، مدیریت تماس و رسانه های اجتماعی"
+        },
+        "nn": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "fi": {
+            "name": "Sosiaaliset & kommunikaatio",
+            "description": "Viestittely-, yhteystietojenhallinta- ja sosiaalisen median sovellukset"
+        },
+        "os": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "pa": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "pl": {
+            "name": "Społeczność i komunikacja",
+            "description": "Aplikacje do komunikacji, zarządzania kontaktami i dla mediów społecznościowych"
+        },
+        "pt": {
+            "name": "Social & comunicação",
+            "description": "Aplicação para troca de mensagens, gestão de contactos e redes sociais"
+        },
+        "pt-br": {
+            "name": "Social & comunicação",
+            "description": "Aplicativos de mensagem, gerenciamento de contatos e mídias sociais"
+        },
+        "ro": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "gl": {
+            "name": "Social e comunicación",
+            "description": "Aplicacións de mensaxería, xestión de contactos e medios sociais"
+        },
+        "he": {
+            "name": "חברתי ותקשורת",
+            "description": "יישומוני התכתבות, ניהול אנשי קשר ורשתות חברתיות"
+        },
+        "hi": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "hr": {
+            "name": "Društvene i komunikacijske aplikacije",
+            "description": "Aplikacije za razmjenu poruka, upravljanje kontaktima i društveni mediji"
+        },
+        "hsb": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "sr": {
+            "name": "Друштвене мреже & комуникација",
+            "description": "Ћаскање, управљање контактима и апликације друштвених мрежа"
+        },
+        "sr-latn": {
+            "name": "Друштвене мреже & комуникација",
+            "description": "Ћаскање, управљање контактима и апликације друштвених мрежа"
+        },
+        "sv": {
+            "name": "Socialt & kommunikation",
+            "description": "Meddelande, kontaktadministration och social media appar"
+        },
+        "sw": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        },
+        "ta": {
+            "name": "Social & communication",
+            "description": "Messaging, contact management and social media apps"
+        }
+    }
+}, {
+    "id": "tools",
+    "translations": {
+        "en": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "fr": {
+            "name": "Outils",
+            "description": "Tout le reste"
+        },
+        "fy": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "ga": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "gd": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "ru": {
+            "name": "Приложения",
+            "description": "Что-то еще"
+        },
+        "sk": {
+            "name": "Nástroje",
+            "description": "Všetko ostatné"
+        },
+        "sl": {
+            "name": "Orodja",
+            "description": "Različna orodja za različne dejavnosti"
+        },
+        "sq": {
+            "name": "Mjete",
+            "description": "Çdo gjë tjetër"
+        },
+        "hu": {
+            "name": "Eszközök",
+            "description": "Minden más"
+        },
+        "hy": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "ia": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "id": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "io": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "is": {
+            "name": "Verkfæri",
+            "description": "Allt annað"
+        },
+        "it": {
+            "name": "Strumenti",
+            "description": "Tutto il resto"
+        },
+        "ja": {
+            "name": "ツール",
+            "description": "その他すべて"
+        },
+        "ka": {
+            "name": "ხელსაწყოები",
+            "description": "დანარჩენი სხვა"
+        },
+        "kab": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "kk": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "km": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "kn": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "ko": {
+            "name": "도구",
+            "description": "다른 모든 것"
+        },
+        "lb": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "lt": {
+            "name": "Įrankiai",
+            "description": "Visa kita"
+        },
+        "lv": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "mk": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "ml": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "mn": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "mr": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "my": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "nb": {
+            "name": "Verktøy",
+            "description": "Alt annet"
+        },
+        "ne": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "te": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "th": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "tr": {
+            "name": "Araçlar",
+            "description": "Diğer uygulamalar"
+        },
+        "tt": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "udm": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "uk": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "af": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "ar": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "ast": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "az": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "bg": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "be": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "ur": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "vi": {
+            "name": "Công cụ",
+            "description": "Mọi thứ khác"
+        },
+        "zh-hans": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "zh-hant": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "bn": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "br": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "bs": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "ca": {
+            "name": "Eines",
+            "description": "Tota la resta"
+        },
+        "cs": {
+            "name": "Nástroje",
+            "description": "Vše ostatní"
+        },
+        "cy": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "da": {
+            "name": "Værktøjer",
+            "description": "Alt andet"
+        },
+        "de": {
+            "name": "Werkzeuge",
+            "description": "Alles Andere"
+        },
+        "dsb": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "el": {
+            "name": "Εργαλεία",
+            "description": "Οτιδήποτε άλλο"
+        },
+        "eo": {
+            "name": "Iloj",
+            "description": "Ĉio cetera"
+        },
+        "es": {
+            "name": "Herramientas",
+            "description": "Todo lo demás"
+        },
+        "es-ar": {
+            "name": "Herramientas",
+            "description": "Todo lo demás"
+        },
+        "es-co": {
+            "name": "Herramientas",
+            "description": "Todo lo demás"
+        },
+        "es-mx": {
+            "name": "Herramientas",
+            "description": "Todo lo demás"
+        },
+        "es-ni": {
+            "name": "Herramientas",
+            "description": "Todo lo demás"
+        },
+        "es-ve": {
+            "name": "Herramientas",
+            "description": "Todo lo demás"
+        },
+        "et": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "eu": {
+            "name": "Tresnak",
+            "description": "Beste guztia"
+        },
+        "nl": {
+            "name": "Tools",
+            "description": "De rest"
+        },
+        "fa": {
+            "name": "ابزارها",
+            "description": "همه چیز دیگر"
+        },
+        "nn": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "fi": {
+            "name": "Työkalut",
+            "description": "Kaikki muu"
+        },
+        "os": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "pa": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "pl": {
+            "name": "Narzędzia",
+            "description": "Wszystko inne"
+        },
+        "pt": {
+            "name": "Ferramentas",
+            "description": "Tudo o resto"
+        },
+        "pt-br": {
+            "name": "Ferramentas",
+            "description": "Tudo mais"
+        },
+        "ro": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "gl": {
+            "name": "Ferramentas",
+            "description": "Todo o demais"
+        },
+        "he": {
+            "name": "כלים",
+            "description": "כל השאר"
+        },
+        "hi": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "hr": {
+            "name": "Alati",
+            "description": "Sve ostalo"
+        },
+        "hsb": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "sr": {
+            "name": "Алати",
+            "description": "Све остало"
+        },
+        "sr-latn": {
+            "name": "Алати",
+            "description": "Све остало"
+        },
+        "sv": {
+            "name": "Verktyg",
+            "description": "Allting annat"
+        },
+        "sw": {
+            "name": "Tools",
+            "description": "Everything else"
+        },
+        "ta": {
+            "name": "Tools",
+            "description": "Everything else"
+        }
+    }
+}, {
+    "id": "workflow",
+    "translations": {
+        "en": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "fr": {
+            "name": "Flux",
+            "description": "Application pour le flux Nextcloud "
+        },
+        "fy": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "ga": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "gd": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "ru": {
+            "name": "Обработка файлов",
+            "description": "Приложения для Nextcloud Flow"
+        },
+        "sk": {
+            "name": "Flow (tok)",
+            "description": "Aplikácie pre Nextcloud Flow (tok)"
+        },
+        "sl": {
+            "name": "Koračnik (Flow)",
+            "description": "Programi za Nextcloud Flow"
+        },
+        "sq": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "hu": {
+            "name": "Flow",
+            "description": "Alkalmazások a Nextcloud Flowhoz"
+        },
+        "hy": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "ia": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "id": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "io": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "is": {
+            "name": "Flæði",
+            "description": "Forrit fyrir Nextcloud Flow flæði"
+        },
+        "it": {
+            "name": "Flow",
+            "description": "Applicazioni per Nextcloud Flow"
+        },
+        "ja": {
+            "name": "Flow",
+            "description": "Nextcloud Flowのアプリ"
+        },
+        "ka": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "kab": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "kk": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "km": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "kn": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "ko": {
+            "name": "흐름",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "lb": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "lt": {
+            "name": "Eiga",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "lv": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "mk": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "ml": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "mn": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "mr": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "my": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "nb": {
+            "name": "Flyt",
+            "description": "Apper til Nextcloud Flow"
+        },
+        "ne": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "te": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "th": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "tr": {
+            "name": "Akış",
+            "description": "Nextcloud Akış Uygulamaları"
+        },
+        "tt": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "udm": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "uk": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "af": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "ar": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "ast": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "az": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "bg": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "be": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "ur": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "vi": {
+            "name": "Flow",
+            "description": "Ứng dụng cho Flow"
+        },
+        "zh-hans": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "zh-hant": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "bn": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "br": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "bs": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "ca": {
+            "name": "Flux",
+            "description": "Aplicacions per Nextcloud Flow"
+        },
+        "cs": {
+            "name": "Flow (tok)",
+            "description": "Aplikace pro Nextcloud Flow"
+        },
+        "cy": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "da": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "de": {
+            "name": "Flow",
+            "description": "Apps für Nextcloud Flow"
+        },
+        "dsb": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "el": {
+            "name": "Ροή",
+            "description": "Εφαρμογές για τη Ροή του Nextcloud"
+        },
+        "eo": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "es": {
+            "name": "Flujo",
+            "description": "Apps para Nextcloud Flow"
+        },
+        "es-ar": {
+            "name": "Flujo",
+            "description": "Apps para Nextcloud Flow"
+        },
+        "es-co": {
+            "name": "Flujo",
+            "description": "Apps para Nextcloud Flow"
+        },
+        "es-mx": {
+            "name": "Flujo",
+            "description": "Apps para Nextcloud Flow"
+        },
+        "es-ni": {
+            "name": "Flujo",
+            "description": "Apps para Nextcloud Flow"
+        },
+        "es-ve": {
+            "name": "Flujo",
+            "description": "Apps para Nextcloud Flow"
+        },
+        "et": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "eu": {
+            "name": "Fluxua",
+            "description": "Nextcloud Flow-rako aplikazioak"
+        },
+        "nl": {
+            "name": "Flow",
+            "description": "Apps voor Nextcloud Flow"
+        },
+        "fa": {
+            "name": "جریان",
+            "description": "برنامه هایی برای جریان نکست کلود"
+        },
+        "nn": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "fi": {
+            "name": "Flow",
+            "description": "Sovellukset Nextcloud Flow:lle"
+        },
+        "os": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "pa": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "pl": {
+            "name": "Przepływ",
+            "description": "Aplikacje dla Nextcloud Flow"
+        },
+        "pt": {
+            "name": "Fluxo",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "pt-br": {
+            "name": "Fluxo",
+            "description": "Aplicativos para Nextcloud Fluxo"
+        },
+        "ro": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "gl": {
+            "name": "Fluxo",
+            "description": "Aplicacións para o Fluxo de Nextcloud"
+        },
+        "he": {
+            "name": "רצף",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "hi": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "hr": {
+            "name": "Flow",
+            "description": "Aplikacije za Nextcloud Flow"
+        },
+        "hsb": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "sr": {
+            "name": "Ток",
+            "description": "Апликације за Некстклауд Flow"
+        },
+        "sr-latn": {
+            "name": "Ток",
+            "description": "Апликације за Некстклауд Flow"
+        },
+        "sv": {
+            "name": "Flow",
+            "description": "Appar för Nextcloud Flow"
+        },
+        "sw": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        },
+        "ta": {
+            "name": "Flow",
+            "description": "Apps for Nextcloud Flow"
+        }
+    }
+}]
